@@ -1,0 +1,11 @@
+D:\Niraj_Working\Repos\JenkinsWebApi\JenkinsWebApi\obj\Release\net8.0\PubTmp\Out\JenkinsWebApi.exe
+D:\Niraj_Working\Repos\JenkinsWebApi\JenkinsWebApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Niraj_Working\Repos\JenkinsWebApi\JenkinsWebApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Niraj_Working\Repos\JenkinsWebApi\JenkinsWebApi\obj\Release\net8.0\PubTmp\Out\JenkinsWebApi.dll
+D:\Niraj_Working\Repos\JenkinsWebApi\JenkinsWebApi\obj\Release\net8.0\PubTmp\Out\JenkinsWebApi.deps.json
+D:\Niraj_Working\Repos\JenkinsWebApi\JenkinsWebApi\obj\Release\net8.0\PubTmp\Out\JenkinsWebApi.runtimeconfig.json
+D:\Niraj_Working\Repos\JenkinsWebApi\JenkinsWebApi\obj\Release\net8.0\PubTmp\Out\JenkinsWebApi.pdb
+D:\Niraj_Working\Repos\JenkinsWebApi\JenkinsWebApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Niraj_Working\Repos\JenkinsWebApi\JenkinsWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Niraj_Working\Repos\JenkinsWebApi\JenkinsWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Niraj_Working\Repos\JenkinsWebApi\JenkinsWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
