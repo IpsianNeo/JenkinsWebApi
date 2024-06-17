@@ -29,11 +29,5 @@ namespace JenkinsWebApi.Controllers
             })
             .ToArray();
         }
-
-        [HttpGet]
-        public string CallMe()
-        {
-            return "Hello JI";
-        }
     }
 }
