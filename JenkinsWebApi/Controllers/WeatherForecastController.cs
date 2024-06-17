@@ -30,19 +30,19 @@ namespace JenkinsWebApi.Controllers
             .ToArray();
         }
 
-        [HttpGet]
+        [HttpGet("CallMe")]
         public string CallMe()
         {
             return "Hello JI";
         }
 
-        [HttpGet]
+        [HttpGet("CallMeAgain")]
         public string CallMeAgain()
         {
             return "Hello JI Again";
         }
 
-        [HttpGet]
+        [HttpGet("CallMeFinally")]
         public string CallMeFinally()
         {
             return "Hello JI Finally";
