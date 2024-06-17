@@ -41,5 +41,11 @@ namespace JenkinsWebApi.Controllers
         {
             return "Hello JI Again";
         }
+
+        [HttpGet]
+        public string CallMeFinally()
+        {
+            return "Hello JI Finally";
+        }
     }
 }
